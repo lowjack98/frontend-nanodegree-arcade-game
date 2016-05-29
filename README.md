@@ -7,14 +7,16 @@ Installation
 ===============================
 
 Clone the GitHUb repository and view the index.html on a web browser
-git clone https://github.com/lowjack98/frontend-nanodegree-arcade-game.git
+
+`git clone https://github.com/lowjack98/frontend-nanodegree-arcade-game.git`
 
 Usage
 ===============================
 
 All applicable images are in the images folder.
 
-TO deit the following, make the required change in the app.js file
+To edit the following, make the required change in the app.js file
+
 Enemies
 - Number of enemies
 - Starting position of the enemy
